@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Pearl Open-Style Bracelet",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/main/-2147483648_-210420.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 2500000,
+      "group": "bracelet",
+      "proposal": false
+    },
+    {
+      "id": "2",
+      "title": "Pearl bracelet, closed model",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/main/-2147483648_-210422.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 235000,
+      "group": "bracelet",
+      "proposal": false
+    },
+    {
+      "id": "3",
+      "title": "Snake Model Pearl Ring",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/b218e35debc6d05e9e10bfc90c0d9da54524d7b2/-2147483648_-210428.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 150000,
+      "group": "ring",
+      "proposal": false
+    },
+    {
+      "id": "4",
+      "title": "Diamond Ring, Butterfly Model",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/main/-2147483648_-210426.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 500000,
+      "group": "ring",
+      "proposal": false
+    },
+    {
+      "id": "5",
+      "title": "Snake Model Pearl Ring",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/b218e35debc6d05e9e10bfc90c0d9da54524d7b2/-2147483648_-210428.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 55000,
+      "group": "ring",
+      "proposal": false
+    },
+    {
+      "id": "6",
+      "title": "Stud Earrings",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/48e553823fd37e45828c1ec745ff9c5b8c40cad1/-2147483648_-210406%20(1).jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 10000,
+      "group": "earrings",
+      "proposal": false
+    },
+    {
+      "id": "7",
+      "title": "Diamond necklace",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/main/-2147483648_-210424.jpg",
+      "description": "With our diamond necklace, experience beauty at its peak. Each diamond is carefully selected to offer you a dazzling brilliance",
+      "price": 65000,
+      "group": "necklace",
+      "proposal": true
+    },
+    {
+      "id": "8",
+      "title": "Diamond ring",
+      "image": "https://raw.githubusercontent.com/Asalkjh/picture/622516f627ff08fd792d6410afd7fdaa06d8c9da/458697faf875a1ec86ca81b46fca1133.jpg",
+      "description": "ndsjdhjsdhhjjhjdh",
+      "price": 65000,
+      "group": "ring",
+      "proposal": false
+    }
+  ],
+  "users": [
+    {
+      "id": "a29b",
+      "userName": "ssssss",
+      "password": "ssssssssss"
+    },
+    {
+      "id": "2054",
+      "userName": "n",
+      "password": "n"
+    }
+  ]
+}
