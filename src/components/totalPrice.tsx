@@ -27,7 +27,7 @@ function TotalPrice() {
 
         setTimeout(() => {
             if (palceOrder) {
-           palceOrder.style.top="-50px"
+           palceOrder.style.top="-100px"
        }
    },3000)
        
@@ -50,7 +50,7 @@ function TotalPrice() {
         <button onClick={handlePlaceOrder} className="w-full py-4 rounded-2xl cursor-pointer border border-sky-700 hover:bg-sky-700 hover:text-white shadow-2xl ">Place Order</button>
 
         </div>
-        <div id="placeOrder" className="w-[30%] h-[50px] bg-green-600 rounded-2xl fixed top-[-50px] left-[35%] p-2.5 duration-150">
+        <div id="placeOrder" className="w-[30%] h-[50px] bg-green-600 rounded-2xl fixed top-[-100px] left-[35%] p-2.5 duration-150 max-md:w-[70%] max-md:left-[15%]">
 <h4 className="font-bold">{cartItems.length ==0 ? "There are no products in your shopping cart yet!" :"Your order has been placed !"}</h4>
       </div>
         </div>);
